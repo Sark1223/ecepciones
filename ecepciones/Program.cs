@@ -29,7 +29,7 @@ namespace ecepciones
             }
             catch (FormatException e)
             {
-                Console.WriteLine("Error");
+                Console.WriteLine("Errorasjbdahbchja");
                 Console.WriteLine(e.Message);
             }
 
